@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Celis Fernández, Adrián              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01	Clone
+02	Branch
+03	Editar PlanVacunacion
+04	Editar bitacora
