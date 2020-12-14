@@ -20,3 +20,6 @@
 12					-Para DatosPersonales se haria de forma recursiva con conflictos
 					-Para Antecedentes se haria fast-forwarding
 13	editar bitacora
+14	merge Antecedentes
+15	merge DatosPersonales
+16	editar bitacora
