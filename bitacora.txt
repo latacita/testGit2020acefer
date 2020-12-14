@@ -19,7 +19,13 @@
 11	push DatosPersonales
 12					-Para DatosPersonales se haria de forma recursiva con conflictos
 					-Para Antecedentes se haria fast-forwarding
-13	editar bitacora
+13	editar bitacora + commit
 14	merge Antecedentes
 15	merge DatosPersonales
 16	editar bitacora
+17	tag FusionTerminada
+18	pull master + force push master  -Existen conflictos al hacer un pull debido a que los modificaciones
+					  que estan en remoto no se encontraban en local antes de ponerse a trabajar.
+					 -Se solucionan los conflictos, en este caso se dejan los cambios en local, 
+					  y se hace un force push para poder poner en remoto los cambios realizados
+19	editar bitacora + commit + push master
