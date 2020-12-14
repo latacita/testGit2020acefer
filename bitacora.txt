@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+05	---
+06	Seleccionar commit
+07	Branch Antecedentes
+08	Crear antecedentes.txt
+09	bitacora+commit
